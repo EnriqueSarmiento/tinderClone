@@ -8,14 +8,16 @@
 import SwiftUI
 
 struct UserInfoView: View {
+   let user : User
+   
     var body: some View {
         VStack(alignment: .listRowSeparatorLeading){
             HStack{
-                Text("Charles")
+               Text(user.fullname)
                     .font(.title)
                     .fontWeight(.heavy)
                 
-                Text("24")
+               Text(String(user.age))
                     .font(.title)
                     .fontWeight(.semibold)
                 
