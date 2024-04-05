@@ -10,7 +10,6 @@ import SwiftUI
 struct SwipeActionIndicatorView: View {
     
     @Binding var xOffset: CGFloat
-   
     
     var body: some View {
         HStack {

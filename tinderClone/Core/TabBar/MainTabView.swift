@@ -15,18 +15,18 @@ struct MainTabView: View {
                     Image(systemName: "flame")
                 }
                 .tag(0)
-            Text("search view")
+            Text("search tab view")
                 .tabItem {
                     Image(systemName: "magnifyingglass")
                 }
                 .tag(1)
-            Text("ibox view")
+            Text("ibox tab view")
                 .tabItem {
                     Image(systemName: "message.badge.filled.fill")
                 }
                 .tag(2)
             
-            Text("profile view")
+            Text("profile tab view")
                 .tabItem {
                     Image(systemName: "person")
                 }
