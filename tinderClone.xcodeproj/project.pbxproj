@@ -17,6 +17,7 @@
 		3E2830FF2BB9E5EE003578D3 /* SwipeActionIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2830FE2BB9E5EE003578D3 /* SwipeActionIndicatorView.swift */; };
 		3E2831022BB9E7A2003578D3 /* SizeConstants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2831012BB9E7A2003578D3 /* SizeConstants.swift */; };
 		3E2831042BB9E8CC003578D3 /* ImageScrollingOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E2831032BB9E8CC003578D3 /* ImageScrollingOverlay.swift */; };
+		3E3F00102BC0A55100E06352 /* CardImageIndicatorView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E3F000F2BC0A55100E06352 /* CardImageIndicatorView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		3E2830FE2BB9E5EE003578D3 /* SwipeActionIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwipeActionIndicatorView.swift; sourceTree = "<group>"; };
 		3E2831012BB9E7A2003578D3 /* SizeConstants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SizeConstants.swift; sourceTree = "<group>"; };
 		3E2831032BB9E8CC003578D3 /* ImageScrollingOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageScrollingOverlay.swift; sourceTree = "<group>"; };
+		3E3F000F2BC0A55100E06352 /* CardImageIndicatorView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardImageIndicatorView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +171,7 @@
 				3E2830FC2BB9D920003578D3 /* UserInfoView.swift */,
 				3E2830FE2BB9E5EE003578D3 /* SwipeActionIndicatorView.swift */,
 				3E2831032BB9E8CC003578D3 /* ImageScrollingOverlay.swift */,
+				3E3F000F2BC0A55100E06352 /* CardImageIndicatorView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -255,6 +258,7 @@
 				3E2830E02BB9CC63003578D3 /* ContentView.swift in Sources */,
 				3E2830FF2BB9E5EE003578D3 /* SwipeActionIndicatorView.swift in Sources */,
 				3E2830DE2BB9CC62003578D3 /* tinderCloneApp.swift in Sources */,
+				3E3F00102BC0A55100E06352 /* CardImageIndicatorView.swift in Sources */,
 				3E2830FB2BB9D523003578D3 /* CardView.swift in Sources */,
 				3E2831022BB9E7A2003578D3 /* SizeConstants.swift in Sources */,
 				3E2830F72BB9CF08003578D3 /* MainTabView.swift in Sources */,
